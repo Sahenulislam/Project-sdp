@@ -1,0 +1,34 @@
+						 
+
+						                      
+
+
+								         Khulna University
+                                                                       ----------------------
+
+                                 	Khulna University is a public university in Bangladesh. It is situated at Gollamari,
+                                 	Khulna, Bangladesh,by the river Moyur, beside the Khulna-Satkhira highway. The academic
+                                 	programs of Khulna University started on 31 August 1991 with 80 students in four disciplines.
+
+	                         	Subject:
+	                                Subject Name	                       Total Seat Number
+	                                 Architecture	                                37
+	                                 Computer Science and Engineering	        40
+	                                 Urban and Rural Planning	                40
+	                                 Electronics and Communication Engineering	40
+	                                 Math	                                        50
+	                                 Physics                 	                45
+	                                 Chemistry	                                45
+	                                 Statistics	                                40
+	                                 Forestry and Wood Technology	                45
+	                                 Fisheries and Marine resources	                45
+	                                 Biotechnology & Genetic Engineering	        40
+	                                 Agrotechnology	                                45
+	                                 Environment Science                             60
+	                                 Pharmacy	                                45
+	                                 Soil, water, and Environment	                45
+
+	                        	Semester system:
+	                        	The individual grades of courses obtained by them for the semesters of the academic year.
+
+	

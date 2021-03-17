@@ -1,0 +1,38 @@
+						
+
+
+
+
+									Jahangirnagar University
+							       	       --------------------------
+
+					Jahangirnagar University is a public university in Bangladesh, based in Savar, Dhaka. 
+                                        It is one of the top and only fully residential university of Bangladesh. The university
+ 					was established in 1970 by the Jahangirnagar Muslim University Ordinance of the government 
+					of Pakistan.
+
+						SUBJECT	                                     TOTAL SEAT
+						Mathematics Department	                        75
+						Chemistry	                                70
+						Physics	                                        70
+						Computer Science and Engineering                50
+						Statistics	                                65
+						Geological Science	                        40
+						Environmental sciences	                        40		
+						Faculty of Biological Science	Zoology 	50
+						Biochemistry & Molecular Biology	        60
+						Botany                   	                60
+						Microbiology	                                36
+						Public Health & Informatics	                40
+						Pharmacy	                                50
+						Biotechnology & Genetic Engineering	        24
+					Semester system:
+					The individual grades of courses obtained by them for the semesters of the academic year.
+
+					Marks:
+						Math            22
+						physics         22
+						chemistry       22
+						Bangla           3
+						English          3
+						Iq               8
